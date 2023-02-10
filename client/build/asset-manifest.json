@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.200a7e49.css",
+    "main.js": "/static/js/main.88c90693.js",
+    "static/media/alienpizza.mp4": "/static/media/alienpizza.4555db6bcd1022410cac.mp4",
+    "static/media/loudbeats.mp4": "/static/media/loudbeats.45132e77be41da658f32.mp4",
+    "static/media/bowwoow.mp4": "/static/media/bowwoow.3776ef67b3af301b4a8e.mp4",
+    "static/media/frame.png": "/static/media/frame.ecb7533e15001a130e30.png",
+    "static/media/mobileSecondVideoReversed.mp4": "/static/media/mobileSecondVideoReversed.64fb6dd252a43269b7dc.mp4",
+    "static/media/mobilesecondVideo.mp4": "/static/media/mobilesecondVideo.f89d8b41944cd5563a9d.mp4",
+    "static/media/DesktopSecondVideo.mp4": "/static/media/DesktopSecondVideo.566d41bde2b20a3135c3.mp4",
+    "static/media/DesktopSecondVideoReversed.mp4": "/static/media/DesktopSecondVideoReversed.534f0c6e02d2215fc8fe.mp4",
+    "static/media/mobileFirstVideo.mp4": "/static/media/mobileFirstVideo.f6a0be86c83ec66ff828.mp4",
+    "static/media/DesktopFirstVideo.mp4": "/static/media/DesktopFirstVideo.5c2be847d3dff04c9374.mp4",
+    "static/media/adam.png": "/static/media/adam.807d9a05441666f7e9b8.png",
+    "static/media/belgan-aesthetic.regular.otf": "/static/media/belgan-aesthetic.regular.5d496292c1bc6fb61114.otf",
+    "static/media/vector.svg": "/static/media/vector.b9b670622312be21c4c58cad289c2830.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.7c7c2370123639800e795c92dc023d5e.svg",
+    "main.200a7e49.css.map": "/static/css/main.200a7e49.css.map",
+    "main.88c90693.js.map": "/static/js/main.88c90693.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.200a7e49.css",
+    "static/js/main.88c90693.js"
+  ]
+}
